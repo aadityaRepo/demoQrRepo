@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoqrApplication {
 // This is Dhruv checking in
 	public static void main(String[] args) {
-		SpringApplication.run(DemoqrApplication.class, args);
+		//aaditya changes
+	        SpringApplication.run(DemoqrApplication.class, args);
 	}
 
 }
