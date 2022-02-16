@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DemoqrApplication {
 // This is Dhruv checking in
+	// Amit K Yadav checking in
 	public static void main(String[] args) {
 		//aaditya changes
 	        SpringApplication.run(DemoqrApplication.class, args);
