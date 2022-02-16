@@ -8,7 +8,8 @@ public class DemoqrApplication {
 // This is Dhruv checking in
 	public static void main(String[] args) {
 		//aaditya changes
-	        SpringApplication.run(DemoqrApplication.class, args);
+		//naveen changes done
+	        SpringApplication.run(DemoqrApplication.class,sargs);
 	}
 
 }
