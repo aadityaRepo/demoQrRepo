@@ -9,6 +9,7 @@ public class DemoqrApplication {
 	public static void main(String[] args) {
 		//aaditya changes
 		//naveen changes done
+		//changed by nancy
 	        SpringApplication.run(DemoqrApplication.class,sargs);
 	}
 
