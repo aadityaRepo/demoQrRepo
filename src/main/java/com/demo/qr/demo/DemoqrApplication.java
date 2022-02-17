@@ -5,9 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class DemoqrApplication {
-// This is Dhruv checking in
+
 	public static void main(String[] args) {
-		      SpringApplication.run(DemoqrApplication.class,args);
+	        SpringApplication.run(DemoqrApplication.class,args);
+
 	}
 
 }
