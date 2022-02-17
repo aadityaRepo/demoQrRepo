@@ -10,7 +10,7 @@ public class DemoqrApplication {
 		//aaditya changes
 		//naveen changes done
 		//changed by nancy
-	        SpringApplication.run(DemoqrApplication.class,sargs);
+	        SpringApplication.run(DemoqrApplication.class,args);
 	}
 
 }
