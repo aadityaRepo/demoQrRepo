@@ -15,7 +15,7 @@ public class QRCodeController {
 
 
 
-	@GetMapping("/greeting")
+	@GetMapping("/greeting-from-dhruv")
 	public ModelAndView greeting(@RequestParam(name="name", required=false, defaultValue="World") String name, Model model) {
 		ModelAndView mav = new ModelAndView("developer");
 		Developer dev = new Developer();
@@ -23,6 +23,10 @@ public class QRCodeController {
 		return mav;
 	}
 
-
+	@PostMapping("/genrateQRCode")
+	public ModelAndView QRCode() {
+		ModelAndView mav = new ModelAndView("greeting");
+		return mav;
+	}
 
 }
