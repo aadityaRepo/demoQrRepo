@@ -1,4 +1,4 @@
-package com.demo.qr.demo;
+package com.pixeltrice.springbootQRcodegeneratorapp;
 
 
 public class Developer {
