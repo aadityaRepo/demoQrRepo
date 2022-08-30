@@ -1,2 +1,2 @@
 # demoQrRepo
-https://mincong.io/2018/11/13/simple-rest-demo-with-jax-rs/
+https://howtodoinjava.com/spring-cloud/spring-cloud-service-discovery-netflix-eureka/
